@@ -1,0 +1,55 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 745px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3rem;
+  margin: 15px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: -11px auto 0 344px;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1.5rem;
+  margin: 0 auto 60px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-2 {
+    margin-left: 284px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: -10px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: -1px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-2 {
+    margin-left: 20px;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: auto;
+  }
+}@font-face {
+  font-family: 'minecraft';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/minecraft.ttf);
+}

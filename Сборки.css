@@ -1,0 +1,145 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 764px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 748px;
+  height: 140px;
+  margin: 8px auto 0;
+}
+
+.u-section-1 .u-image-2 {
+  width: 807px;
+  height: 255px;
+  margin: -13px auto 0;
+}
+
+.u-section-1 .u-image-3 {
+  width: 327px;
+  height: 60px;
+  margin: -127px 196px 0 auto;
+}
+
+.u-section-1 .u-image-4 {
+  width: 778px;
+  height: 245px;
+  margin: 46px auto 0;
+}
+
+.u-section-1 .u-image-5 {
+  width: 231px;
+  height: 30px;
+  margin: -153px 351px 60px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-3 {
+    margin-top: -137px;
+    margin-right: 96px;
+  }
+
+  .u-section-1 .u-image-4 {
+    height: 246px;
+    margin-top: 56px;
+  }
+
+  .u-section-1 .u-image-5 {
+    margin-right: 253px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 714px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 720px;
+    height: 134px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 720px;
+    height: 228px;
+    margin-top: -7px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: -110px;
+  }
+
+  .u-section-1 .u-image-4 {
+    width: 720px;
+    height: 228px;
+  }
+
+  .u-section-1 .u-image-5 {
+    margin-top: -135px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 566px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 101px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 540px;
+    height: 171px;
+    margin-top: 26px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: -53px;
+  }
+
+  .u-section-1 .u-image-4 {
+    width: 540px;
+    height: 171px;
+  }
+
+  .u-section-1 .u-image-5 {
+    margin-top: -78px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 403px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 64px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 340px;
+    height: 108px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: 10px;
+    margin-right: 13px;
+  }
+
+  .u-section-1 .u-image-4 {
+    width: 340px;
+    height: 108px;
+  }
+
+  .u-section-1 .u-image-5 {
+    margin-top: -15px;
+    margin-right: 109px;
+  }
+}@font-face {
+  font-family: 'minecraft';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/minecraft.ttf);
+}

@@ -1,0 +1,79 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 661px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 828px;
+  height: 197px;
+  margin: 13px auto 0;
+}
+
+.u-section-1 .u-image-2 {
+  width: 1073px;
+  height: 380px;
+  margin: 0 auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 613px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 940px;
+    height: 333px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 509px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 720px;
+    height: 171px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 720px;
+    height: 255px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 402px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 128px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 540px;
+    height: 191px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 284px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 81px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 340px;
+    height: 120px;
+  }
+}@font-face {
+  font-family: 'minecraft';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/minecraft.ttf);
+}
